@@ -45,3 +45,6 @@ The back end endpoint "/sentimentData" receives url and then it will send get re
 You can use the follwoing command to run application tests and the should all succeed 
 
 - `npm run test`
+
+## Netlify Deployment
+- `https://6058bfd38b0d050f8d37092c--heuristic-kilby-4daa21.netlify.app/`
