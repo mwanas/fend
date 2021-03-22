@@ -1,11 +1,6 @@
 function checkForName(inputText) {
     console.log("::: Running checkForName :::", inputText);
-    var isValid = isValidURL(inputText)
-    if(isValid){
-        alert("Getting values!!!!")
-    }else{
-        alert("Invalid URL")
-    }
+    return isValidURL(inputText);
 }
 
 //Validating URL using regex
